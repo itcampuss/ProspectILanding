@@ -1,0 +1,10 @@
+{
+  "description": "This AI-powered sales intelligence platform streamlines B2B prospecting by analyzing diverse data sources to deliver prioritized leads, funding opportunities, and partnership insights, enabling sales teams to focus on high-value outreach.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
